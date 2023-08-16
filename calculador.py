@@ -12,6 +12,4 @@ elif operacao == "/":
 else:
     print("Operacao invalida")
     total = 0
-print("Resultado_final!: ", total)
-
-#Teste
+print(f'Resultado_final!: {a} {operacao} {b} = {total}')
