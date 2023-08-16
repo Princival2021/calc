@@ -13,3 +13,5 @@ else:
     print("Operacao invalida")
     total = 0
 print("Resultado_final!: ", total)
+
+#Teste
