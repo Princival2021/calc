@@ -13,3 +13,4 @@ else:
     print("Operacao invalida")
     total = 0
 print(f'Resultado_final!: {a} {operacao} {b} = {total}')
+
